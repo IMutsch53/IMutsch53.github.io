@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Social Media"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Edwardsville, Illinois"
   employer         : "Dairy Queen"
   uri              : # URL
