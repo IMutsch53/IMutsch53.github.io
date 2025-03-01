@@ -24,7 +24,7 @@ Expected Graduation: 2027
 - Actively pursuing a deeper understanding of the engineering and development aspects of software creation.
 
 **Rushville-Industry High School**
-High School Diploma – Magna Cum Laude
+High School Diploma – Summa Cum Laude
 Graduated: 2023
 
 - Developed an interest in coding after taking an introductory Python course.
