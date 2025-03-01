@@ -9,12 +9,12 @@ redirect_from:
 
 
 
-Bio
-======
+## Bio
+
 I am a sophomore at Southern Illinois University, pursuing a degree in Computer Science. My goal is to become a Software Engineer, with a particular focus on the engineering side of the field. I am passionate about expanding my knowledge and skillset to advance my career and grow as a professional. Outside of my studies, I enjoy reading, gaming, staying active through sports, and listening to music. 
 
-Education
-======
+## Education
+
 **Southern Illinois University**
 Bachelor of Science in Computer Science
 Expected Graduation: 2027
@@ -29,8 +29,8 @@ Graduated: 2023
 
 - Developed an interest in coding after taking an introductory Python course.
 
-Work Experience
-======
+## Work Experience
+
 **Shift Lead**
 Dairy Queen - Rushville, Illinois
 Dates of Employment: May 2021 - Present
