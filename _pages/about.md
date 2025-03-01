@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Personal Overview
-======
+
 I am currently a sophomore at Southern Illinois University, pursuing a major in Computer Science. I graduated from Rushville-Industry High School, where I developed my passion for programming after taking a Python course. My teacher noted that I might have an aptitude for the subject, which inspired me to further explore the field and ultimately pursue a career as a Software Engineer.
 
 In addition to my academic pursuits, I have been employed at Dairy Queen for four years and currently hold a shift leader position. This role has helped me develop valuable leadership and team management skills while providing exceptional customer service.
