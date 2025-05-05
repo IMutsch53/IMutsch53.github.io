@@ -15,7 +15,7 @@ I am a sophomore at Southern Illinois University, pursuing a degree in Computer 
 
 ## Education
 
-**Southern Illinois University**
+**Southern Illinois University**\
 Bachelor of Science in Computer Science
 Expected Graduation: 2027
 
@@ -23,7 +23,7 @@ Expected Graduation: 2027
 - Familiar with C++, Python, SQL, HTML, and some assembly.
 - Actively pursuing a deeper understanding of the engineering and development aspects of software creation.
 
-**Rushville-Industry High School**
+**Rushville-Industry High School**\
 High School Diploma – Summa Cum Laude
 Graduated: 2023
 
@@ -31,7 +31,7 @@ Graduated: 2023
 
 ## Work Experience
 
-**Shift Lead**
+**Shift Lead**\
 Dairy Queen - Rushville, Illinois
 Dates of Employment: May 2021 - Present
 
@@ -39,10 +39,10 @@ Dates of Employment: May 2021 - Present
 - Train and mentor new team members, fostering a positive and efficient work environment
 - Handle customer questions and resolve complaints
 
-**Groundskeeper**
+**Groundskeeper**\
 Peace of Earth Lodge - Rushville, Illinois
 Dates of Employment: Summer of 2020
 
-- Assisted with general groundskeeping tasks such as clearing debris from trails, maintaining shrubbery, and managing cleanliness of facilities
+- Assisted with general groundskeeping tasks such as clearing debris from trails, maintaining shrubbery, and managing the cleanliness of facilities
 
 While my previous occupations have not directly aligned with my prospective career path, they have equipped me with valuable workplace skills, including effective communication, teamwork, attention to detail, customer interaction, and taking pride in my work.
