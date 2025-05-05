@@ -1,6 +1,6 @@
 ---
 title: 'Future Blog Post'
-date: 2025-05-04 00:00:00 +0000
+date: 2025-02-04 00:00:00 +0000
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
